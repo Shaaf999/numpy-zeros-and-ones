@@ -1,0 +1,11 @@
+import numpy as np 
+n=list(map(int,input().split()))
+print(np.zeros(n,int))
+print(np.ones(n,int))
+
+
+
+#zeros=np.zeros(n, dtype=int)
+#print(zeros)
+#ones=np.ones(n, dtype=int)
+#print(ones)
